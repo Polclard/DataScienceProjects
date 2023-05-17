@@ -1,0 +1,454 @@
+Question,Segment Type,Segment Description,Answer,Count,Percentage
+Have you ever met up with someone off tinder?,Mobile,Mobile respondents,Yes,797,0.207
+Have you ever met up with someone off tinder?,Mobile,Mobile respondents,No,1969,0.511
+Have you ever met up with someone off tinder?,Mobile,Mobile respondents,I don't use Tinder,1090,0.283
+Have you ever met up with someone off tinder?,Web,Web-based respondents,Yes,0,0
+Have you ever met up with someone off tinder?,Web,Web-based respondents,No,0,0
+Have you ever met up with someone off tinder?,Web,Web-based respondents,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,Gender,Male respondents,Yes,472,0.213
+Have you ever met up with someone off tinder?,Gender,Male respondents,No,1172,0.528
+Have you ever met up with someone off tinder?,Gender,Male respondents,I don't use Tinder,574,0.259
+Have you ever met up with someone off tinder?,Gender,Female respondents,Yes,325,0.198
+Have you ever met up with someone off tinder?,Gender,Female respondents,No,797,0.487
+Have you ever met up with someone off tinder?,Gender,Female respondents,I don't use Tinder,516,0.315
+Have you ever met up with someone off tinder?,University,Chapman University,Yes,13,0.206
+Have you ever met up with someone off tinder?,University,Chapman University,No,31,0.492
+Have you ever met up with someone off tinder?,University,Chapman University,I don't use Tinder,19,0.302
+Have you ever met up with someone off tinder?,University,Cornell University,Yes,47,0.244
+Have you ever met up with someone off tinder?,University,Cornell University,No,95,0.492
+Have you ever met up with someone off tinder?,University,Cornell University,I don't use Tinder,51,0.264
+Have you ever met up with someone off tinder?,University,Duke University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Duke University,No,2,0.667
+Have you ever met up with someone off tinder?,University,Duke University,I don't use Tinder,1,0.333
+Have you ever met up with someone off tinder?,University,George Washington University,Yes,1,0.25
+Have you ever met up with someone off tinder?,University,George Washington University,No,3,0.75
+Have you ever met up with someone off tinder?,University,George Washington University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Georgetown University,Yes,2,0.5
+Have you ever met up with someone off tinder?,University,Georgetown University,No,1,0.25
+Have you ever met up with someone off tinder?,University,Georgetown University,I don't use Tinder,1,0.25
+Have you ever met up with someone off tinder?,University,Harvard University,Yes,1,0.333
+Have you ever met up with someone off tinder?,University,Harvard University,No,2,0.667
+Have you ever met up with someone off tinder?,University,Harvard University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Indiana University,Yes,9,0.205
+Have you ever met up with someone off tinder?,University,Indiana University,No,30,0.682
+Have you ever met up with someone off tinder?,University,Indiana University,I don't use Tinder,5,0.114
+Have you ever met up with someone off tinder?,University,Johns Hopkins University,Yes,33,0.239
+Have you ever met up with someone off tinder?,University,Johns Hopkins University,No,76,0.551
+Have you ever met up with someone off tinder?,University,Johns Hopkins University,I don't use Tinder,29,0.21
+Have you ever met up with someone off tinder?,University,Northwestern University,Yes,31,0.258
+Have you ever met up with someone off tinder?,University,Northwestern University,No,65,0.542
+Have you ever met up with someone off tinder?,University,Northwestern University,I don't use Tinder,24,0.2
+Have you ever met up with someone off tinder?,University,Ohio State University,Yes,6,0.316
+Have you ever met up with someone off tinder?,University,Ohio State University,No,12,0.632
+Have you ever met up with someone off tinder?,University,Ohio State University,I don't use Tinder,1,0.053
+Have you ever met up with someone off tinder?,University,Princeton University,Yes,1,0.5
+Have you ever met up with someone off tinder?,University,Princeton University,No,1,0.5
+Have you ever met up with someone off tinder?,University,Princeton University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,San Diego State University,Yes,5,0.192
+Have you ever met up with someone off tinder?,University,San Diego State University,No,15,0.577
+Have you ever met up with someone off tinder?,University,San Diego State University,I don't use Tinder,6,0.231
+Have you ever met up with someone off tinder?,University,Santa Clara University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Santa Clara University,No,4,0.8
+Have you ever met up with someone off tinder?,University,Santa Clara University,I don't use Tinder,1,0.2
+Have you ever met up with someone off tinder?,University,Southern Methodist University,Yes,3,0.333
+Have you ever met up with someone off tinder?,University,Southern Methodist University,No,4,0.444
+Have you ever met up with someone off tinder?,University,Southern Methodist University,I don't use Tinder,2,0.222
+Have you ever met up with someone off tinder?,University,Stanford University,Yes,13,0.12
+Have you ever met up with someone off tinder?,University,Stanford University,No,58,0.537
+Have you ever met up with someone off tinder?,University,Stanford University,I don't use Tinder,37,0.343
+Have you ever met up with someone off tinder?,University,Tulane University,Yes,3,0.429
+Have you ever met up with someone off tinder?,University,Tulane University,No,3,0.429
+Have you ever met up with someone off tinder?,University,Tulane University,I don't use Tinder,1,0.143
+Have you ever met up with someone off tinder?,University,University of Pennsylvania,Yes,24,0.222
+Have you ever met up with someone off tinder?,University,University of Pennsylvania,No,60,0.556
+Have you ever met up with someone off tinder?,University,University of Pennsylvania,I don't use Tinder,24,0.222
+Have you ever met up with someone off tinder?,University,University of Wisconsin-Madison,Yes,34,0.27
+Have you ever met up with someone off tinder?,University,University of Wisconsin-Madison,No,71,0.563
+Have you ever met up with someone off tinder?,University,University of Wisconsin-Madison,I don't use Tinder,21,0.167
+Have you ever met up with someone off tinder?,University,University of Alabama,Yes,2,0.133
+Have you ever met up with someone off tinder?,University,University of Alabama,No,11,0.733
+Have you ever met up with someone off tinder?,University,University of Alabama,I don't use Tinder,2,0.133
+Have you ever met up with someone off tinder?,University,"University of California, Berkeley",Yes,25,0.275
+Have you ever met up with someone off tinder?,University,"University of California, Berkeley",No,47,0.516
+Have you ever met up with someone off tinder?,University,"University of California, Berkeley",I don't use Tinder,19,0.209
+Have you ever met up with someone off tinder?,University,"University of California, Davis",Yes,3,0.176
+Have you ever met up with someone off tinder?,University,"University of California, Davis",No,8,0.471
+Have you ever met up with someone off tinder?,University,"University of California, Davis",I don't use Tinder,6,0.353
+Have you ever met up with someone off tinder?,University,"University of California, Los Angeles",Yes,1,0.077
+Have you ever met up with someone off tinder?,University,"University of California, Los Angeles",No,7,0.538
+Have you ever met up with someone off tinder?,University,"University of California, Los Angeles",I don't use Tinder,5,0.385
+Have you ever met up with someone off tinder?,University,"University of California, Santa Barbara",Yes,24,0.32
+Have you ever met up with someone off tinder?,University,"University of California, Santa Barbara",No,34,0.453
+Have you ever met up with someone off tinder?,University,"University of California, Santa Barbara",I don't use Tinder,17,0.227
+Have you ever met up with someone off tinder?,University,University of Colorado Boulder,Yes,3,0.5
+Have you ever met up with someone off tinder?,University,University of Colorado Boulder,No,3,0.5
+Have you ever met up with someone off tinder?,University,University of Colorado Boulder,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Miami,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Miami,No,0,0
+Have you ever met up with someone off tinder?,University,University of Miami,I don't use Tinder,1,1
+Have you ever met up with someone off tinder?,University,University of Michigan,Yes,14,0.163
+Have you ever met up with someone off tinder?,University,University of Michigan,No,49,0.57
+Have you ever met up with someone off tinder?,University,University of Michigan,I don't use Tinder,23,0.267
+Have you ever met up with someone off tinder?,University,University of Oregon,Yes,1,0.2
+Have you ever met up with someone off tinder?,University,University of Oregon,No,4,0.8
+Have you ever met up with someone off tinder?,University,University of Oregon,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Southern California,Yes,1,0.1
+Have you ever met up with someone off tinder?,University,University of Southern California,No,7,0.7
+Have you ever met up with someone off tinder?,University,University of Southern California,I don't use Tinder,2,0.2
+Have you ever met up with someone off tinder?,University,University of Virginia,Yes,3,0.167
+Have you ever met up with someone off tinder?,University,University of Virginia,No,7,0.389
+Have you ever met up with someone off tinder?,University,University of Virginia,I don't use Tinder,8,0.444
+Have you ever met up with someone off tinder?,University,Vanderbilt University,Yes,23,0.235
+Have you ever met up with someone off tinder?,University,Vanderbilt University,No,63,0.643
+Have you ever met up with someone off tinder?,University,Vanderbilt University,I don't use Tinder,12,0.122
+Have you ever met up with someone off tinder?,University,Wesleyan University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Wesleyan University,No,2,1
+Have you ever met up with someone off tinder?,University,Wesleyan University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Texas,Yes,12,0.164
+Have you ever met up with someone off tinder?,University,University of Texas,No,35,0.479
+Have you ever met up with someone off tinder?,University,University of Texas,I don't use Tinder,26,0.356
+Have you ever met up with someone off tinder?,University,"University of California, San Diego",Yes,1,1
+Have you ever met up with someone off tinder?,University,"University of California, San Diego",No,0,0
+Have you ever met up with someone off tinder?,University,"University of California, San Diego",I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Miami University (Ohio),Yes,0,0
+Have you ever met up with someone off tinder?,University,Miami University (Ohio),No,1,0.5
+Have you ever met up with someone off tinder?,University,Miami University (Ohio),I don't use Tinder,1,0.5
+Have you ever met up with someone off tinder?,University,University of Maine,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Maine,No,3,0.75
+Have you ever met up with someone off tinder?,University,University of Maine,I don't use Tinder,1,0.25
+Have you ever met up with someone off tinder?,University,Texas Tech University,Yes,3,0.231
+Have you ever met up with someone off tinder?,University,Texas Tech University,No,5,0.385
+Have you ever met up with someone off tinder?,University,Texas Tech University,I don't use Tinder,5,0.385
+Have you ever met up with someone off tinder?,University,University of North Carolina,Yes,1,0.083
+Have you ever met up with someone off tinder?,University,University of North Carolina,No,8,0.667
+Have you ever met up with someone off tinder?,University,University of North Carolina,I don't use Tinder,3,0.25
+Have you ever met up with someone off tinder?,University,University of Arkansas,Yes,12,0.182
+Have you ever met up with someone off tinder?,University,University of Arkansas,No,35,0.53
+Have you ever met up with someone off tinder?,University,University of Arkansas,I don't use Tinder,19,0.288
+Have you ever met up with someone off tinder?,University,University of Mississippi,Yes,2,0.667
+Have you ever met up with someone off tinder?,University,University of Mississippi,No,1,0.333
+Have you ever met up with someone off tinder?,University,University of Mississippi,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Baylor University,Yes,2,0.286
+Have you ever met up with someone off tinder?,University,Baylor University,No,2,0.286
+Have you ever met up with someone off tinder?,University,Baylor University,I don't use Tinder,3,0.429
+Have you ever met up with someone off tinder?,University,Texas A&M University,Yes,13,0.241
+Have you ever met up with someone off tinder?,University,Texas A&M University,No,29,0.537
+Have you ever met up with someone off tinder?,University,Texas A&M University,I don't use Tinder,12,0.222
+Have you ever met up with someone off tinder?,University,University of Oklahoma,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Oklahoma,No,4,0.8
+Have you ever met up with someone off tinder?,University,University of Oklahoma,I don't use Tinder,1,0.2
+Have you ever met up with someone off tinder?,University,Yale University,Yes,1,1
+Have you ever met up with someone off tinder?,University,Yale University,No,0,0
+Have you ever met up with someone off tinder?,University,Yale University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Cal Poly San Luis Obispo,Yes,8,0.32
+Have you ever met up with someone off tinder?,University,Cal Poly San Luis Obispo,No,10,0.4
+Have you ever met up with someone off tinder?,University,Cal Poly San Luis Obispo,I don't use Tinder,7,0.28
+Have you ever met up with someone off tinder?,University,Carnegie Mellon University,Yes,1,0.25
+Have you ever met up with someone off tinder?,University,Carnegie Mellon University,No,3,0.75
+Have you ever met up with someone off tinder?,University,Carnegie Mellon University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Clemson University,Yes,2,0.5
+Have you ever met up with someone off tinder?,University,Clemson University,No,0,0
+Have you ever met up with someone off tinder?,University,Clemson University,I don't use Tinder,2,0.5
+Have you ever met up with someone off tinder?,University,University of Denver,Yes,1,1
+Have you ever met up with someone off tinder?,University,University of Denver,No,0,0
+Have you ever met up with someone off tinder?,University,University of Denver,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Washington,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Washington,No,3,0.75
+Have you ever met up with someone off tinder?,University,University of Washington,I don't use Tinder,1,0.25
+Have you ever met up with someone off tinder?,University,University of Illinois,Yes,10,0.213
+Have you ever met up with someone off tinder?,University,University of Illinois,No,29,0.617
+Have you ever met up with someone off tinder?,University,University of Illinois,I don't use Tinder,8,0.17
+Have you ever met up with someone off tinder?,University,New York University,Yes,1,0.333
+Have you ever met up with someone off tinder?,University,New York University,No,2,0.667
+Have you ever met up with someone off tinder?,University,New York University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Butler University,Yes,7,0.103
+Have you ever met up with someone off tinder?,University,Butler University,No,44,0.647
+Have you ever met up with someone off tinder?,University,Butler University,I don't use Tinder,17,0.25
+Have you ever met up with someone off tinder?,University,Washington University in St. Louis,Yes,1,0.125
+Have you ever met up with someone off tinder?,University,Washington University in St. Louis,No,5,0.625
+Have you ever met up with someone off tinder?,University,Washington University in St. Louis,I don't use Tinder,2,0.25
+Have you ever met up with someone off tinder?,University,Northern Illinois University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Northern Illinois University,No,1,0.5
+Have you ever met up with someone off tinder?,University,Northern Illinois University,I don't use Tinder,1,0.5
+Have you ever met up with someone off tinder?,University,University of Iowa,Yes,1,0.333
+Have you ever met up with someone off tinder?,University,University of Iowa,No,1,0.333
+Have you ever met up with someone off tinder?,University,University of Iowa,I don't use Tinder,1,0.333
+Have you ever met up with someone off tinder?,University,Dartmouth College,Yes,5,0.5
+Have you ever met up with someone off tinder?,University,Dartmouth College,No,3,0.3
+Have you ever met up with someone off tinder?,University,Dartmouth College,I don't use Tinder,2,0.2
+Have you ever met up with someone off tinder?,University,Loyola Marymount University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Loyola Marymount University,No,1,1
+Have you ever met up with someone off tinder?,University,Loyola Marymount University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Williams College,Yes,0,0
+Have you ever met up with someone off tinder?,University,Williams College,No,0,0
+Have you ever met up with someone off tinder?,University,Williams College,I don't use Tinder,1,1
+Have you ever met up with someone off tinder?,University,University of Maryland,Yes,1,1
+Have you ever met up with someone off tinder?,University,University of Maryland,No,0,0
+Have you ever met up with someone off tinder?,University,University of Maryland,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,UMass Amherst,Yes,3,0.25
+Have you ever met up with someone off tinder?,University,UMass Amherst,No,6,0.5
+Have you ever met up with someone off tinder?,University,UMass Amherst,I don't use Tinder,3,0.25
+Have you ever met up with someone off tinder?,University,University of Arizona,Yes,4,0.364
+Have you ever met up with someone off tinder?,University,University of Arizona,No,4,0.364
+Have you ever met up with someone off tinder?,University,University of Arizona,I don't use Tinder,3,0.273
+Have you ever met up with someone off tinder?,University,Texas Christian University,Yes,8,0.308
+Have you ever met up with someone off tinder?,University,Texas Christian University,No,8,0.308
+Have you ever met up with someone off tinder?,University,Texas Christian University,I don't use Tinder,10,0.385
+Have you ever met up with someone off tinder?,University,Emory University,Yes,1,0.2
+Have you ever met up with someone off tinder?,University,Emory University,No,3,0.6
+Have you ever met up with someone off tinder?,University,Emory University,I don't use Tinder,1,0.2
+Have you ever met up with someone off tinder?,University,Columbia University,Yes,2,0.333
+Have you ever met up with someone off tinder?,University,Columbia University,No,3,0.5
+Have you ever met up with someone off tinder?,University,Columbia University,I don't use Tinder,1,0.167
+Have you ever met up with someone off tinder?,University,Purdue University,Yes,5,0.192
+Have you ever met up with someone off tinder?,University,Purdue University,No,13,0.5
+Have you ever met up with someone off tinder?,University,Purdue University,I don't use Tinder,8,0.308
+Have you ever met up with someone off tinder?,University,Tufts University,Yes,3,0.429
+Have you ever met up with someone off tinder?,University,Tufts University,No,2,0.286
+Have you ever met up with someone off tinder?,University,Tufts University,I don't use Tinder,2,0.286
+Have you ever met up with someone off tinder?,University,University of Richmond,Yes,2,0.111
+Have you ever met up with someone off tinder?,University,University of Richmond,No,9,0.5
+Have you ever met up with someone off tinder?,University,University of Richmond,I don't use Tinder,7,0.389
+Have you ever met up with someone off tinder?,University,Quinnipiac University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Quinnipiac University,No,2,1
+Have you ever met up with someone off tinder?,University,Quinnipiac University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,United States Naval Academy,Yes,0,0
+Have you ever met up with someone off tinder?,University,United States Naval Academy,No,3,0.429
+Have you ever met up with someone off tinder?,University,United States Naval Academy,I don't use Tinder,4,0.571
+Have you ever met up with someone off tinder?,University,"University of California, Santa Cruz",Yes,2,0.667
+Have you ever met up with someone off tinder?,University,"University of California, Santa Cruz",No,1,0.333
+Have you ever met up with someone off tinder?,University,"University of California, Santa Cruz",I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Rice University ,Yes,1,0.167
+Have you ever met up with someone off tinder?,University,Rice University ,No,4,0.667
+Have you ever met up with someone off tinder?,University,Rice University ,I don't use Tinder,1,0.167
+Have you ever met up with someone off tinder?,University,Mississippi State University,Yes,4,0.364
+Have you ever met up with someone off tinder?,University,Mississippi State University,No,6,0.545
+Have you ever met up with someone off tinder?,University,Mississippi State University,I don't use Tinder,1,0.091
+Have you ever met up with someone off tinder?,University,University of Missouri,Yes,7,0.233
+Have you ever met up with someone off tinder?,University,University of Missouri,No,15,0.5
+Have you ever met up with someone off tinder?,University,University of Missouri,I don't use Tinder,8,0.267
+Have you ever met up with someone off tinder?,University,University of Georgia,Yes,1,0.091
+Have you ever met up with someone off tinder?,University,University of Georgia,No,9,0.818
+Have you ever met up with someone off tinder?,University,University of Georgia,I don't use Tinder,1,0.091
+Have you ever met up with someone off tinder?,University,Louisiana State University,Yes,2,0.25
+Have you ever met up with someone off tinder?,University,Louisiana State University,No,4,0.5
+Have you ever met up with someone off tinder?,University,Louisiana State University,I don't use Tinder,2,0.25
+Have you ever met up with someone off tinder?,University,Lehigh University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Lehigh University,No,2,0.667
+Have you ever met up with someone off tinder?,University,Lehigh University,I don't use Tinder,1,0.333
+Have you ever met up with someone off tinder?,University,Northern Arizona University,Yes,1,1
+Have you ever met up with someone off tinder?,University,Northern Arizona University,No,0,0
+Have you ever met up with someone off tinder?,University,Northern Arizona University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Elon University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Elon University,No,4,0.667
+Have you ever met up with someone off tinder?,University,Elon University,I don't use Tinder,2,0.333
+Have you ever met up with someone off tinder?,University,Vassar College,Yes,1,0.5
+Have you ever met up with someone off tinder?,University,Vassar College,No,1,0.5
+Have you ever met up with someone off tinder?,University,Vassar College,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Pittsburgh,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Pittsburgh,No,0,0
+Have you ever met up with someone off tinder?,University,University of Pittsburgh,I don't use Tinder,2,1
+Have you ever met up with someone off tinder?,University,University of Chicago,Yes,2,0.4
+Have you ever met up with someone off tinder?,University,University of Chicago,No,1,0.2
+Have you ever met up with someone off tinder?,University,University of Chicago,I don't use Tinder,2,0.4
+Have you ever met up with someone off tinder?,University,University of Buffalo,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Buffalo,No,0,0
+Have you ever met up with someone off tinder?,University,University of Buffalo,I don't use Tinder,1,1
+Have you ever met up with someone off tinder?,University,University of Minnesota,Yes,2,0.5
+Have you ever met up with someone off tinder?,University,University of Minnesota,No,1,0.25
+Have you ever met up with someone off tinder?,University,University of Minnesota,I don't use Tinder,1,0.25
+Have you ever met up with someone off tinder?,University,Colorado State University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Colorado State University,No,3,1
+Have you ever met up with someone off tinder?,University,Colorado State University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Skidmore College,Yes,0,0
+Have you ever met up with someone off tinder?,University,Skidmore College,No,1,1
+Have you ever met up with someone off tinder?,University,Skidmore College,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Rochester Institute of Technology,Yes,0,0
+Have you ever met up with someone off tinder?,University,Rochester Institute of Technology,No,2,1
+Have you ever met up with someone off tinder?,University,Rochester Institute of Technology,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Arizona State University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Arizona State University,No,1,0.5
+Have you ever met up with someone off tinder?,University,Arizona State University,I don't use Tinder,1,0.5
+Have you ever met up with someone off tinder?,University,University of Rochester,Yes,1,0.333
+Have you ever met up with someone off tinder?,University,University of Rochester,No,2,0.667
+Have you ever met up with someone off tinder?,University,University of Rochester,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of St Andrews,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of St Andrews,No,2,0.667
+Have you ever met up with someone off tinder?,University,University of St Andrews,I don't use Tinder,1,0.333
+Have you ever met up with someone off tinder?,University,Florida State University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Florida State University,No,0,0
+Have you ever met up with someone off tinder?,University,Florida State University,I don't use Tinder,1,1
+Have you ever met up with someone off tinder?,University,Ithaca College,Yes,1,0.25
+Have you ever met up with someone off tinder?,University,Ithaca College,No,2,0.5
+Have you ever met up with someone off tinder?,University,Ithaca College,I don't use Tinder,1,0.25
+Have you ever met up with someone off tinder?,University,Union College,Yes,1,0.111
+Have you ever met up with someone off tinder?,University,Union College,No,7,0.778
+Have you ever met up with someone off tinder?,University,Union College,I don't use Tinder,1,0.111
+Have you ever met up with someone off tinder?,University,Loyola University Maryland,Yes,0,0
+Have you ever met up with someone off tinder?,University,Loyola University Maryland,No,3,1
+Have you ever met up with someone off tinder?,University,Loyola University Maryland,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Marquette University,Yes,1,0.5
+Have you ever met up with someone off tinder?,University,Marquette University,No,1,0.5
+Have you ever met up with someone off tinder?,University,Marquette University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,James Madison University,Yes,1,1
+Have you ever met up with someone off tinder?,University,James Madison University,No,0,0
+Have you ever met up with someone off tinder?,University,James Madison University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Sacred Heart University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Sacred Heart University,No,1,1
+Have you ever met up with someone off tinder?,University,Sacred Heart University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Wisconsin-Whitewater,Yes,2,0.4
+Have you ever met up with someone off tinder?,University,University of Wisconsin-Whitewater,No,2,0.4
+Have you ever met up with someone off tinder?,University,University of Wisconsin-Whitewater,I don't use Tinder,1,0.2
+Have you ever met up with someone off tinder?,University,St. Lawrence University,Yes,1,1
+Have you ever met up with someone off tinder?,University,St. Lawrence University,No,0,0
+Have you ever met up with someone off tinder?,University,St. Lawrence University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Iowa State University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Iowa State University,No,1,1
+Have you ever met up with someone off tinder?,University,Iowa State University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Wisconsin-La Crosse,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Wisconsin-La Crosse,No,2,0.667
+Have you ever met up with someone off tinder?,University,University of Wisconsin-La Crosse,I don't use Tinder,1,0.333
+Have you ever met up with someone off tinder?,University,College of William and Mary,Yes,3,0.188
+Have you ever met up with someone off tinder?,University,College of William and Mary,No,7,0.438
+Have you ever met up with someone off tinder?,University,College of William and Mary,I don't use Tinder,6,0.375
+Have you ever met up with someone off tinder?,University,University of Notre Dame,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Notre Dame,No,3,0.6
+Have you ever met up with someone off tinder?,University,University of Notre Dame,I don't use Tinder,2,0.4
+Have you ever met up with someone off tinder?,University,University of Tennessee,Yes,2,0.5
+Have you ever met up with someone off tinder?,University,University of Tennessee,No,1,0.25
+Have you ever met up with someone off tinder?,University,University of Tennessee,I don't use Tinder,1,0.25
+Have you ever met up with someone off tinder?,University,Illinois State,Yes,0,0
+Have you ever met up with someone off tinder?,University,Illinois State,No,1,0.5
+Have you ever met up with someone off tinder?,University,Illinois State,I don't use Tinder,1,0.5
+Have you ever met up with someone off tinder?,University,Auburn University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Auburn University,No,1,1
+Have you ever met up with someone off tinder?,University,Auburn University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Gonzaga University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Gonzaga University,No,1,1
+Have you ever met up with someone off tinder?,University,Gonzaga University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Washington State University,Yes,8,0.308
+Have you ever met up with someone off tinder?,University,Washington State University,No,12,0.462
+Have you ever met up with someone off tinder?,University,Washington State University,I don't use Tinder,6,0.231
+Have you ever met up with someone off tinder?,University,Michigan State University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Michigan State University,No,1,1
+Have you ever met up with someone off tinder?,University,Michigan State University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Florida International University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Florida International University,No,2,1
+Have you ever met up with someone off tinder?,University,Florida International University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Central Florida,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Central Florida,No,0,0
+Have you ever met up with someone off tinder?,University,University of Central Florida,I don't use Tinder,1,1
+Have you ever met up with someone off tinder?,University,Castleton State College,Yes,0,0
+Have you ever met up with someone off tinder?,University,Castleton State College,No,1,1
+Have you ever met up with someone off tinder?,University,Castleton State College,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Cal State Northridge,Yes,0,0
+Have you ever met up with someone off tinder?,University,Cal State Northridge,No,2,0.667
+Have you ever met up with someone off tinder?,University,Cal State Northridge,I don't use Tinder,1,0.333
+Have you ever met up with someone off tinder?,University,Ohio University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Ohio University,No,1,1
+Have you ever met up with someone off tinder?,University,Ohio University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Pepperdine University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Pepperdine University,No,2,1
+Have you ever met up with someone off tinder?,University,Pepperdine University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Providence College,Yes,0,0
+Have you ever met up with someone off tinder?,University,Providence College,No,1,1
+Have you ever met up with someone off tinder?,University,Providence College,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Appalachian State University,Yes,16,0.139
+Have you ever met up with someone off tinder?,University,Appalachian State University,No,53,0.461
+Have you ever met up with someone off tinder?,University,Appalachian State University,I don't use Tinder,46,0.4
+Have you ever met up with someone off tinder?,University,University of Connecticut,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Connecticut,No,3,0.375
+Have you ever met up with someone off tinder?,University,University of Connecticut,I don't use Tinder,5,0.625
+Have you ever met up with someone off tinder?,University,"University of Wisconsin, Eau Claire",Yes,1,1
+Have you ever met up with someone off tinder?,University,"University of Wisconsin, Eau Claire",No,0,0
+Have you ever met up with someone off tinder?,University,"University of Wisconsin, Eau Claire",I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Delaware,Yes,1,0.25
+Have you ever met up with someone off tinder?,University,University of Delaware,No,2,0.5
+Have you ever met up with someone off tinder?,University,University of Delaware,I don't use Tinder,1,0.25
+Have you ever met up with someone off tinder?,University,Massachusetts Institute of Technology,Yes,0,0
+Have you ever met up with someone off tinder?,University,Massachusetts Institute of Technology,No,1,0.5
+Have you ever met up with someone off tinder?,University,Massachusetts Institute of Technology,I don't use Tinder,1,0.5
+Have you ever met up with someone off tinder?,University,Oregon State University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Oregon State University,No,1,1
+Have you ever met up with someone off tinder?,University,Oregon State University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Whatsgoodly University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Whatsgoodly University,No,1,1
+Have you ever met up with someone off tinder?,University,Whatsgoodly University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Case Western Reserve University,Yes,7,0.226
+Have you ever met up with someone off tinder?,University,Case Western Reserve University,No,12,0.387
+Have you ever met up with someone off tinder?,University,Case Western Reserve University,I don't use Tinder,12,0.387
+Have you ever met up with someone off tinder?,University,Michigan Technological University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Michigan Technological University,No,3,0.75
+Have you ever met up with someone off tinder?,University,Michigan Technological University,I don't use Tinder,1,0.25
+Have you ever met up with someone off tinder?,University,"Meridian, Idaho",Yes,1,1
+Have you ever met up with someone off tinder?,University,"Meridian, Idaho",No,0,0
+Have you ever met up with someone off tinder?,University,"Meridian, Idaho",I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Dayton,Yes,4,0.571
+Have you ever met up with someone off tinder?,University,University of Dayton,No,3,0.429
+Have you ever met up with someone off tinder?,University,University of Dayton,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Kansas,Yes,3,0.3
+Have you ever met up with someone off tinder?,University,University of Kansas,No,5,0.5
+Have you ever met up with someone off tinder?,University,University of Kansas,I don't use Tinder,2,0.2
+Have you ever met up with someone off tinder?,University,Morehead State University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Morehead State University,No,0,0
+Have you ever met up with someone off tinder?,University,Morehead State University,I don't use Tinder,1,1
+Have you ever met up with someone off tinder?,University,University of Central Oklahoma,Yes,1,0.5
+Have you ever met up with someone off tinder?,University,University of Central Oklahoma,No,0,0
+Have you ever met up with someone off tinder?,University,University of Central Oklahoma,I don't use Tinder,1,0.5
+Have you ever met up with someone off tinder?,University,Syracuse University,Yes,4,0.444
+Have you ever met up with someone off tinder?,University,Syracuse University,No,4,0.444
+Have you ever met up with someone off tinder?,University,Syracuse University,I don't use Tinder,1,0.111
+Have you ever met up with someone off tinder?,University,Colby College,Yes,1,0.071
+Have you ever met up with someone off tinder?,University,Colby College,No,11,0.786
+Have you ever met up with someone off tinder?,University,Colby College,I don't use Tinder,2,0.143
+Have you ever met up with someone off tinder?,University,Brigham Young University,Yes,1,0.125
+Have you ever met up with someone off tinder?,University,Brigham Young University,No,3,0.375
+Have you ever met up with someone off tinder?,University,Brigham Young University,I don't use Tinder,4,0.5
+Have you ever met up with someone off tinder?,University,Arkansas State University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Arkansas State University,No,1,1
+Have you ever met up with someone off tinder?,University,Arkansas State University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,"Westport, CT",Yes,0,0
+Have you ever met up with someone off tinder?,University,"Westport, CT",No,0,0
+Have you ever met up with someone off tinder?,University,"Westport, CT",I don't use Tinder,1,1
+Have you ever met up with someone off tinder?,University,Centre College,Yes,0,0
+Have you ever met up with someone off tinder?,University,Centre College,No,3,0.75
+Have you ever met up with someone off tinder?,University,Centre College,I don't use Tinder,1,0.25
+Have you ever met up with someone off tinder?,University,Middlebury College,Yes,1,1
+Have you ever met up with someone off tinder?,University,Middlebury College,No,0,0
+Have you ever met up with someone off tinder?,University,Middlebury College,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,North Carolina State,Yes,1,1
+Have you ever met up with someone off tinder?,University,North Carolina State,No,0,0
+Have you ever met up with someone off tinder?,University,North Carolina State,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Kentucky,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Kentucky,No,1,1
+Have you ever met up with someone off tinder?,University,University of Kentucky,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Bucknell University,Yes,1,1
+Have you ever met up with someone off tinder?,University,Bucknell University,No,0,0
+Have you ever met up with someone off tinder?,University,Bucknell University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Randolph-Macon College,Yes,0,0
+Have you ever met up with someone off tinder?,University,Randolph-Macon College,No,0,0
+Have you ever met up with someone off tinder?,University,Randolph-Macon College,I don't use Tinder,1,1
+Have you ever met up with someone off tinder?,University,Old Dominion University,Yes,1,1
+Have you ever met up with someone off tinder?,University,Old Dominion University,No,0,0
+Have you ever met up with someone off tinder?,University,Old Dominion University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Tampa,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Tampa,No,1,1
+Have you ever met up with someone off tinder?,University,University of Tampa,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Roger Williams University,Yes,0,0
+Have you ever met up with someone off tinder?,University,Roger Williams University,No,1,1
+Have you ever met up with someone off tinder?,University,Roger Williams University,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Penn State University,Yes,4,0.4
+Have you ever met up with someone off tinder?,University,Penn State University,No,5,0.5
+Have you ever met up with someone off tinder?,University,Penn State University,I don't use Tinder,1,0.1
+Have you ever met up with someone off tinder?,University,Minnesota State University Mankato,Yes,1,1
+Have you ever met up with someone off tinder?,University,Minnesota State University Mankato,No,0,0
+Have you ever met up with someone off tinder?,University,Minnesota State University Mankato,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,University of Florida,Yes,0,0
+Have you ever met up with someone off tinder?,University,University of Florida,No,1,1
+Have you ever met up with someone off tinder?,University,University of Florida,I don't use Tinder,0,0
+Have you ever met up with someone off tinder?,University,Boston College,Yes,0,0
+Have you ever met up with someone off tinder?,University,Boston College,No,4,0.8
+Have you ever met up with someone off tinder?,University,Boston College,I don't use Tinder,1,0.2
+Have you ever met up with someone off tinder?,University,Boston University,Yes,2,0.333
+Have you ever met up with someone off tinder?,University,Boston University,No,3,0.5
+Have you ever met up with someone off tinder?,University,Boston University,I don't use Tinder,1,0.167
